@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home-WIND-UI
 
 hero:
   name: WindUI
